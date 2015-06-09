@@ -1,0 +1,12 @@
+bin/
+gen/
+target/
+.idea*/
+build.xml
+local.properties
+proguard-*.txt
+
+## ignore intellij
+.idea/
+*.iml
+
