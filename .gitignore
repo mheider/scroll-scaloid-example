@@ -10,3 +10,6 @@ proguard-*.txt
 .idea/
 *.iml
 
+## ignore ensime
+.ensime
+.ensime_cache/

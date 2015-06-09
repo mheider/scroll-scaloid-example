@@ -10,7 +10,7 @@ class BankActivity  extends SActivity{
   onCreate {
 
     contentView = new SVerticalLayout {
-      STextView("Penis")
+      STextView("neue view geladen")
     } padding 20.dip
   }
 
